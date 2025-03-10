@@ -1,0 +1,1 @@
+{'version': '3.05', 'type': 'NAVIGATION DATA', 'run_by_date': 'TPS2RIN 1.0.28.3459 TPS-USER            20240514 230103 UTC', 'ion_alpha': [3.2596e-08, 7.4506e-09, -1.7881e-07, 0.0], 'ion_beta': [135170.0, 0.0, -262140.0, 131070.0], 'delta_utc': None, 'leap_seconds': 18}
