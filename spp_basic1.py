@@ -6,8 +6,8 @@ import numpy as np
 import json
 from brdc_calculator import calculate_satellite_position
 import brdc_c_test1
-from gps_timer import utc_to_gps_sow  # GPS zamanı dönüşümü için import
-from datetime import datetime  # datetime nesnesi oluşturmak için
+from gps_timer import utc_to_gps_sow  
+from datetime import datetime  
 
 obs_file_path = r"C:\Users\Root\Desktop\SPP Python Codes\base123i.24o"
 nav_file_path = r"C:\Users\Root\Desktop\SPP Python Codes\base123i.24p"
